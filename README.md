@@ -13,6 +13,8 @@ JSON file name should be changed in cred initialization line in code
 Thanks
 
 Regards
-Muhammad Farhan Anwar /n
-Founder /n
+Muhammad Farhan Anwar
+
+Founder
+
 Nextpak Agile Solutions
